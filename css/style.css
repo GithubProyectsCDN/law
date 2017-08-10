@@ -3223,17 +3223,18 @@ ul.filter-categories > li {
     text-align: left; }
     #nav > ul > li > a {
       display: block;
-      font-size: 13px;
+      font-size: 12px;
       font-weight: bold;
-      font-weight: 700;
+      font-weight: 600;
       text-transform: uppercase;
       line-height: 84px;
-      padding: 0 25px;
+      padding: 0 3px;
       -moz-transition: all 0.25s ease 0s;
       -o-transition: all 0.25s ease 0s;
       -webkit-transition: all 0.25s ease 0s;
       -ms-transition: all 0.25s ease 0s;
-      transition: all 0.25s ease 0s; }
+      transition: all 0.25s ease 0s;
+    }
   #nav .sub-nav {
     position: absolute;
     top: 100%;
